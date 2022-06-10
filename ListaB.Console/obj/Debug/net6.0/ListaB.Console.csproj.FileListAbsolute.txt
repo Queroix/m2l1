@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\bin\Debug\net6.0\ListaB.Console.exe
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\bin\Debug\net6.0\ListaB.Console.deps.json
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\bin\Debug\net6.0\ListaB.Console.runtimeconfig.json
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\bin\Debug\net6.0\ListaB.Console.dll
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\bin\Debug\net6.0\ListaB.Console.pdb
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.AssemblyInfo.cs
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.dll
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\refint\ListaB.Console.dll
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.pdb
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ListaB.Console.genruntimeconfig.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-1\ListaB.Console\obj\Debug\net6.0\ref\ListaB.Console.dll
